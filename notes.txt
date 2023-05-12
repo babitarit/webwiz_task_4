@@ -1,0 +1,5 @@
+	fa fa-step-backward
+    fa fa-step-forward
+    fa fa-play-circle
+    	fa fa-long-arrow-right
+        	far fa-pause-circle
